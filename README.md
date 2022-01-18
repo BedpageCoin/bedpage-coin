@@ -1,1 +1,2 @@
 Bedpage Token Contract
+Bedpage Contract Address: 0x6cFD7dd68b1E5d0B5Cc4540a740a92A81aa0FFde
