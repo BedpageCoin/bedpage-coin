@@ -1,0 +1,8 @@
+wallets_details.txt
+token_details.txt
+node_modules
+contracts/Bedpage1.sol
+contracts/UniswapLpLocker.sol
+contracts/StandardContract.sol
+contracts/artifacts
+contracts/ProxyContract.sol
